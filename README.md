@@ -37,6 +37,6 @@ In addition to the main task, the project explores:
 
 ## 📌 File Descriptions
 
-	- Dashboard — https://docs.google.com/spreadsheets/d/1N3wbVScETi-XsYgzheKqJsRmHmV7H4p47-NcKya8-7Q/edit?gid=830874087#gid=830874087
+	- Dashboard — Link to the Project in Google Spreadsheets.
 	- SQL - Query — Every query for each chart in the same ordering as in the project.
 	- README.md — project overview and documentation.# User-Behavior-Analysis
